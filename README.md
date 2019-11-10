@@ -4,10 +4,13 @@
 Uvod u MATLAB
 
 ## Vežba 2
-Rešavanje lineranih sistema jednačina Gausovom eliminacijom
+Rešavanje linearnih sistema jednačina Gausovom eliminacijom
 
 ## Vežba 3
-Rešavanje lineranih sistema jednačina iterativnim metodama
+Rešavanje linearnih sistema jednačina iterativnim metodama
 
 ## Vežba 4
-Rešavanje nelineranih sistema jednačina iterativnim metodama
+Rešavanje nelinearnih sistema jednačina iterativnim metodama
+
+## Vežba 5
+Interpolacija
