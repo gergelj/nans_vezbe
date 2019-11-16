@@ -14,3 +14,6 @@ Rešavanje nelinearnih sistema jednačina iterativnim metodama
 
 ## Vežba 5
 Interpolacija
+
+## Vežba 6
+Aproksimacija polinomom
