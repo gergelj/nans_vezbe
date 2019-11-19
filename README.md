@@ -16,4 +16,4 @@ Rešavanje nelinearnih sistema jednačina iterativnim metodama
 Interpolacija
 
 ## Vežba 6
-Aproksimacija polinomom
+Aproksimacija polinomom - Metod najmanjih kvadrata
