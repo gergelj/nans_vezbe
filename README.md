@@ -17,3 +17,9 @@ Interpolacija
 
 ## Vežba 6
 Aproksimacija polinomom - Metod najmanjih kvadrata
+
+## Vežba 7
+Priprema za kolokvijum
+
+## Vežba 8
+Numerička integracija
