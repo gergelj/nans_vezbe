@@ -1,6 +1,6 @@
 function [s] = integrateSimpson13(f, a, b, num_int)
 
-if num_int <= 0 || mod(num_int, 2)==1
+if num_int <= 0 || mod(num_int, 2)==1 || b<=a
     s = NaN;
     return
 end
